@@ -1,5 +1,5 @@
 # PTT_Beauty_Crawler
-Use Scrapy and Selenium to crawl the Beauty if PTT
+Use Scrapy and Selenium to crawl the Beauty of PTT
 
 Run Scrapy:
 1. cd to PTT_Beauty_Crawler/ptt_Beauty path.
